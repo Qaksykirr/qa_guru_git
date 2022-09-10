@@ -7,7 +7,9 @@ public class FirstTest {
 
     @Test
     void firstTest() {
-        Assertions.assertTrue(3 >= 2);
+
+    Assertions.assertTrue(3 >= 2);
+
     }
 
     @Test
@@ -18,6 +20,8 @@ public class FirstTest {
 
     @Test
     void thirdTest() {
-        Assertions.assertTrue(3 >= 1);
+
+    Assertions.assertTrue(3 >= 1);
+
     }
 }
